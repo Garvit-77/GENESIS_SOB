@@ -43,7 +43,6 @@ TAB_CONF_urls=(
 "https://www.youtube.com/watch?v=MtvZRltUMWU"
 "https://www.youtube.com/watch?v=RXF5wE8LD0Y"
 "https://www.youtube.com/watch?v=v2xjVAvcKc4"
-"https://www.youtube.com/watch?v=MBLBkzuAbdY"
 "https://www.youtube.com/watch?v=EhJoJPf76Pw"
 "https://www.youtube.com/watch?v=G6mWWNubtcE"
 "https://www.youtube.com/watch?v=6-AU0Vpyzr0"
